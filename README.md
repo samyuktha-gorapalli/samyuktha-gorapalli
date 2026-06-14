@@ -14,14 +14,11 @@ I'm passionate about building full-stack and AI-powered solutions that solve rea
 ---
 
 ## 💻 Interests
+📊 Data Science & Analytics
 
 🌐 Full-Stack Development
 
 🤖 Artificial Intelligence & Machine Learning
-
-📊 Data Science & Analytics
-
-🔧 Backend Systems
 
 🌱 Technology for Social Impact
 
@@ -55,14 +52,14 @@ A peer-to-peer agricultural marketplace connecting farmers directly with consume
 ## 🏆 Hackathon Experience
 
 ### AI-Driven Class Hub
-Built during Udhgam 2.0, an AI-powered educational platform that helps students optimize study strategies using academic performance and course materials.
+Built during **Udhgam 2.0**, an AI-powered educational platform that helps students optimize study strategies using academic performance and course materials.
 
 ---
 
 ## 📜 Certifications
 
 - Google Machine Learning Crash Course
-- Microsoft AI Skills Fest: Data Pro
+- Microsoft AI Skills Fest: Data Pro – Transform Your Data into Context with Microsoft Fabric IQ
 - Harvard edX Data Science: R Basics
 - Google Prepare Data for Exploration
 - IBM Python for Data Science, AI & Development
