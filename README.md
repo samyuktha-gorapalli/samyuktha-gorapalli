@@ -1,7 +1,7 @@
-# Hi, I'm Samyuktha 👋
+# Hi, I'm Samyuktha 👋 ![](https://komarev.com/ghpvc/?username=samyuktha-gorapalli)
 
 🎓 Second-year B.Tech Computer Science (Data Science) student at Woxsen University.
-![](https://komarev.com/ghpvc/?username=samyuktha-gorapalli)
+
 
 ## 📈 GitHub Stats
 
@@ -56,7 +56,7 @@ Built during **Udhgam 2.0**, an AI-powered educational platform that helps stude
 
 ---
 
-## 📜 Certifications
+## Certifications
 
 - Google Machine Learning Crash Course
 - Microsoft AI Skills Fest: Data Pro – Transform Your Data into Context with Microsoft Fabric IQ
@@ -66,7 +66,7 @@ Built during **Udhgam 2.0**, an AI-powered educational platform that helps stude
 
 ---
 
-## 🌱 Currently Learning
+## Currently Learning
 
 - Data Structures & Algorithms
 - Full-Stack Development
@@ -76,11 +76,11 @@ Built during **Udhgam 2.0**, an AI-powered educational platform that helps stude
 
 ---
 
-## 🤝 Leadership
+## Leadership
 
-📈 Secretary, Dr. Prasad Padmanabhan's Finance Studio
+Secretary, Dr. Prasad Padmanabhan's Finance Studio
 
-🎓 Data Science Department Representative, Woxsen University
+Data Science Department Representative, Woxsen University
 
 ---
 
